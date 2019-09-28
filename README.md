@@ -1,3 +1,16 @@
+after download repositorie need to install npm package : command in terminal "npm install"
+
+list of packages 
+lodash: https://lodash.com/
+materail ui react : https://material-ui.com/
+redux: https://redux.js.org/
+redux-thunk: https://github.com/reduxjs/redux-thunk
+redux-form: https://redux-form.com/8.2.2/
+redux-react: https://redux.js.org/basics/usage-with-react
+axios: https://github.com/axios/axios
+aos: https://michalsnik.github.io/aos/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
